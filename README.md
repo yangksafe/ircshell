@@ -1,20 +1,28 @@
-Ò»¸ö¼òµ¥µÄirc»úÆ÷ÈË 
+ä¸€ä¸ªç®€å•çš„ircæœºå™¨äºº 
 
-shellÔ¶³Ì¹ÜÀí¹¤¾ß
+shellè¿œç¨‹ç®¡ç†å·¥å…·
 
-Ö÷ÒªÓÃÓÚ¹ÜÀíÎÒµÄ·þÎñÆ÷
-·½±ãÔÚËùÓÐ·þÎñÆ÷ÉÏÅúÁ¿Ö´ÐÐÃüÁî
+ä¸»è¦ç”¨äºŽç®¡ç†æˆ‘çš„æœåŠ¡å™¨
 
-Ä¿Ç°µÄ¹¦ÄÜ
-¡ª¡ª
-×Ô¶¯Á¬½Óµ½irc·þÎñÆ÷
-Ê¹ÓÃÃÜÂë¼ÓÈëÖ¸¶¨ÆµµÀ
-½ÓÊÕÀ´×ÔÆµµÀµÄÏûÏ¢
-×÷ÎªÖ´ÐÐshellÃüÁîÖ´ÐÐ
-¡ª¡ª
-ÔËÐÐÔÚLinuxºÍwindowsÉÏ
+æ–¹ä¾¿åœ¨æ‰€æœ‰æœåŠ¡å™¨ä¸Šæ‰¹é‡æ‰§è¡Œå‘½ä»¤
 
-±àÒë²¢ÔËÐÐÕâ¸ö³ÌÐò£º
+ç›®å‰çš„åŠŸèƒ½
+
+â€”â€”
+
+è‡ªåŠ¨è¿žæŽ¥åˆ°ircæœåŠ¡å™¨
+
+ä½¿ç”¨å¯†ç åŠ å…¥æŒ‡å®šé¢‘é“
+
+æŽ¥æ”¶æ¥è‡ªé¢‘é“çš„æ¶ˆæ¯
+
+ä½œä¸ºæ‰§è¡Œshellå‘½ä»¤æ‰§è¡Œ
+
+â€”â€”
+
+è¿è¡Œåœ¨Linuxå’Œwindowsä¸Š
+
+ç¼–è¯‘å¹¶è¿è¡Œè¿™ä¸ªç¨‹åºï¼š
 
 go build -ldflags "-H windowsgui" -o your_executable.exe
 
